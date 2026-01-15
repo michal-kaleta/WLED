@@ -27,10 +27,10 @@ constexpr size_t FIXED_PALETTE_COUNT = DYNAMIC_PALETTE_COUNT + FASTLED_PALETTE_C
 // -D WLED_BRAND="\"Custom Brand\""
 // -D WLED_PRODUCT_NAME="\"Custom Product\""
 #ifndef WLED_BRAND
-  #define WLED_BRAND "WLED"
+  #define WLED_BRAND "SuperLEDS"
 #endif
 #ifndef WLED_PRODUCT_NAME
-  #define WLED_PRODUCT_NAME "FOSS"
+  #define WLED_PRODUCT_NAME "AiLedController"
 #endif
 
 //Defaults
